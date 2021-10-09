@@ -75,3 +75,32 @@ animation: spinal 3s ease forwards 3.3s;
         fill: white;
     }
 }
+@media only screen and (min-width: 480px) {
+    svg{
+        height: 30px;
+        
+        
+    }
+}
+@media only screen and (min-width: 568px) {
+    svg{
+        height:50px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    svg{
+        height:60px;
+        
+    }
+}
+@media only screen and (min-width: 1030px) {
+    #svg{
+        height:90px;
+        
+    }
+}
+@media only screen and (min-width: 1466px) {
+    svg{
+        height:100px;
+    }
+}
